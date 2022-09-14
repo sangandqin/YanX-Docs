@@ -16,13 +16,6 @@ YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下
             <br />
             <sub><b>Rycbar123</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ysd7">
-            <img src="https://avatars.githubusercontent.com/u/113486475?v=4" width="50;" alt="ysd7"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
