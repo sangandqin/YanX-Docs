@@ -12,14 +12,14 @@ YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下
 <tr>
     <td align="center">
         <a href="https://github.com/xx025">
-            <img src="https://avatars.githubusercontent.com/u/71559822?v=4" width="100;" alt="xx025"/>
+            <img src="https://avatars.githubusercontent.com/u/71559822?v=4" width="50;" alt="xx025"/>
             <br />
             <sub><b>Rycbar123</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Yuyyts">
-            <img src="https://avatars.githubusercontent.com/u/113482995?v=4" width="100;" alt="Yuyyts"/>
+            <img src="https://avatars.githubusercontent.com/u/113482995?v=4" width="50;" alt="Yuyyts"/>
             <br />
             <sub><b>Yuyyts</b></sub>
         </a>
