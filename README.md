@@ -18,10 +18,10 @@ YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Yuyyts">
-            <img src="https://avatars.githubusercontent.com/u/113482995?v=4" width="50;" alt="Yuyyts"/>
+        <a href="https://github.com/ysd7">
+            <img src="https://avatars.githubusercontent.com/u/113486475?v=4" width="50;" alt="ysd7"/>
             <br />
-            <sub><b>Yuyyts</b></sub>
+            <sub><b>Null</b></sub>
         </a>
     </td></tr>
 </table>
