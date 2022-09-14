@@ -1,8 +1,12 @@
 # YanX-Docs
 YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下载一份目录后，向本仓库提交你下载的目录；
 
-### 此仓库贡献者（可能未全部列出）
+## 搜索文件
 
+[🔗去搜索](https://github.com/xx025/YanX-Docs/find/main)
+
+### 此仓库贡献者
+>由于仓库变更原因全部贡献者未能列出
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
@@ -24,9 +28,6 @@ YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下
 <!-- readme: collaborators,contributors -end -->
 
 
-## 搜索文件
-
-[🔗去搜索](https://github.com/xx025/YanX-Docs/find/main)
 
 ## 提交步骤
 
