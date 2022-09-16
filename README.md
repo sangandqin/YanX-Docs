@@ -5,6 +5,8 @@ YanX-Docs; 这是一个公开库，为了方便更多的同学，请同学在下
 
 [🔗去搜索](https://github.com/xx025/YanX-Docs/find/main)
 
+>注意：如果多个文件，在文件名中包含日期，请选择最新的
+
 ### 此仓库贡献者
 >由于仓库变更原因部分贡献者未能列出
 <!-- readme: collaborators,contributors -start -->
